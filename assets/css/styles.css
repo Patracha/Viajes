@@ -3,6 +3,12 @@ svg {
     height: auto;
 }
 .bg-color{
-    background-color: black;
+    background-color: #212529;
+    color: white;
+}
+.linea{
+    color: azure;
+}
+p{
     color: white;
 }
