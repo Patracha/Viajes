@@ -3,12 +3,19 @@ svg {
     height: auto;
 }
 .bg-color{
-    background-color: #212529;
+    background-color: #000000;
     color: white;
 }
 .linea{
     color: azure;
 }
 p{
+    color: white;
+}
+.corregir{
+    height: 9rem;
+}
+.tamanio{
+    font-size: 2rem;
     color: white;
 }
